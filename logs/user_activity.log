@@ -1,0 +1,1039 @@
+2025-05-06 15:56:34 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt - Guild: Discord Server Test - Action: Sent message: Spoki
+2025-05-06 15:59:32 - User: giulio_spoki (ID: 1346050422699331588) - Channel: releases (ID: 1366717455333986314) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369312633148407818 - Action: Content: test
+2025-05-06 16:00:01 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369208529864491018) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369312755877675068 - Action: Content: Spoki
+2025-05-07 09:07:56 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369208529864491018) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369571440327786568 - Action: Content: Spoki
+2025-05-07 09:13:25 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369208529864491018) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369572819712872499 - Action: Content: !topic | Replying to: 1369571440327786568
+2025-05-07 09:13:37 - User: giulio_spoki (ID: 1346050422699331588) - Channel: prove-bot-discord (ID: 1366319740817113111) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369572870694371368 - Action: Content:  | Replying to: 1369571440327786568
+2025-05-07 09:13:38 - User: giulio_spoki (ID: 1346050422699331588) - Channel: prove-bot-discord (ID: 1366319740817113111) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369572872057520139 - Action: Content: !topic
+2025-05-07 09:19:23 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369208529864491018) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369574320342306867 - Action: Content: !topic | Replying to: 1369571440327786568
+2025-05-07 09:23:39 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369208529864491018) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369575393207652422 - Action: Content: !topic | Replying to: 1369571440327786568
+2025-05-07 10:06:10 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369586093611159613 - Action: Content: test
+2025-05-07 10:09:36 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369586958032048148 - Action: Content: test
+2025-05-07 10:10:16 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369587126232158338 - Action: Content: Spoki
+2025-05-07 10:10:20 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369587143436927039 - Action: Content: !topic | Replying to: 1369587126232158338
+2025-05-07 10:12:41 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369587735190441985
+Content: Spoki
+Created: 2025-05-07T08:12:41.779000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 10:21:22 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369589916907864085
+Content: test
+Created: 2025-05-07T08:21:21.941000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 10:21:35 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369589974709833779
+Content: !topic Spoki
+Created: 2025-05-07T08:21:35.722000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 10:24:29 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369590704417804388
+Content: test
+Created: 2025-05-07T08:24:29.698000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 10:24:33 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369590721874493440
+Content: !topic Spoki
+Created: 2025-05-07T08:24:33.860000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 10:24:46 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369590752111231047
+Content: Spoki
+Created: 2025-05-07T08:24:41.069000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 10:24:46 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369590773699579934
+Content: !topic (Reply to: 1369590752111231047)
+Created: 2025-05-07T08:24:46.216000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 10:48:52 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369596837903859714
+Content: Spoki
+Created: 2025-05-07T08:48:52.035000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 10:48:56 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369596857860358164
+Content: !topic (Reply to: 1369596837903859714)
+Created: 2025-05-07T08:48:56.793000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 12:07:21 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369616590454259742
+Content: Spoki
+Created: 2025-05-07T10:07:21.410000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 12:07:25 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369616606325637193
+Content: !topic (Reply to: 1369616590454259742)
+Created: 2025-05-07T10:07:25.194000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 12:11:50 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369617717484847145
+Content: !topic Spoki
+Created: 2025-05-07T10:11:50.115000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 12:12:42 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369617935353778176
+Content: Spoki !topic
+Created: 2025-05-07T10:12:42.059000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 12:13:00 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369618011023085568
+Content: Spoki !topic
+Created: 2025-05-07T10:13:00.100000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 12:18:54 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369619497639743611
+Content: test
+Created: 2025-05-07T10:18:54.537000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 12:19:02 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369619531143581827
+Content: Spoki !topic
+Created: 2025-05-07T10:19:02.525000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 14:28:19 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369652065399476246
+Content: !draft [Attachments: ['document_title.txt']]
+Created: 2025-05-07T12:28:19.296000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 14:30:22 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369652582678790274
+Content: !draft (Reply to: 1369652065399476246)
+Created: 2025-05-07T12:30:22.625000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 14:34:09 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369653534735335578
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T12:34:09.613000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 14:36:29 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369654121375731824
+Content: !draft (Reply to: 1369653534735335578)
+Created: 2025-05-07T12:36:29.479000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 14:36:48 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369654198869692508
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T12:36:47.955000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 14:37:57 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369654491208482887
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T12:37:57.654000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 14:39:55 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369654984009842719
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T12:39:55.147000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 14:40:51 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369655220899942410
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T12:40:51.626000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 14:42:05 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369655530921922611
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T12:42:05.541000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 14:43:56 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369655997332983849
+Content:  [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T12:43:56.742000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 14:49:58 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369657514894950502
+Content: !draft (Reply to: 1369655997332983849)
+Created: 2025-05-07T12:49:58.557000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 14:50:08 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369657554891833477
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T12:50:08.093000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 14:59:53 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369660009486487563
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T12:59:53.314000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 15:02:16 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369660608785420338
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T13:02:16.198000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 15:12:08 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369663090580258907
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T13:12:07.904000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 15:14:53 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369663782866915408
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T13:14:52.958000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 15:18:28 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369664684436885626
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T13:18:27.909000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 15:20:19 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369665150533238827
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T13:20:19.035000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 15:30:11 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369667633733177495
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T13:30:11.076000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 15:35:27 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369668958797434982
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T13:35:26.996000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 15:41:04 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369670372286402600
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-07T13:41:03.998000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 15:45:03 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369671377384374413
+Content: !reloadprompts
+Created: 2025-05-07T13:45:03.632000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-07 15:45:18 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369671439166341152
+Content: !help
+Created: 2025-05-07T13:45:18.362000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 09:13:21 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369935190868230225
+Content: !draft crea una guida su come configurare un flusso su WhatsApp
+Created: 2025-05-08T07:13:21.668000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 09:14:36 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369935503196946574
+Content: !draft crea un articolo su come configurare un flusso su WhatsApp
+Created: 2025-05-08T07:14:36.133000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 09:18:32 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369936491475763342
+Content: !draft crea un articolo su come configurare un flusso su WhatsApp
+Created: 2025-05-08T07:18:31.757000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 09:26:58 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369938615710253076
+Content: !draft crea un articolo in spagnolo basandoti su questa trascrizione [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T07:26:58.214000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 09:38:42 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369941571268771882
+Content: !draft crea un articolo in tedesco basandoti su questa trascrizione [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T07:38:42.874000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 09:40:25 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369942001356902441
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T07:40:25.415000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 09:43:01 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369942653797404713
+Content: !draft scrivi un articolo basandoti su questa trascrizione in dialetto napoletanio [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T07:43:00.969000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 09:50:58 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369944657106046986
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T07:50:58.595000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 09:52:35 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369945062246449265
+Content: !draft English [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T07:52:35.188000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 09:55:32 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369945803866771568
+Content: !draft create a draft in English based on this transcription [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T07:55:32.004000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 09:58:18 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369946503807766580
+Content: !draft crea un articolo in italiano basandoti su questa trascrizione come se dovessi parlare a un bambino di 5 anni [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T07:58:18.883000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 10:02:11 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369947478648033280
+Content: !draft crea un articolo parlando in rima [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T08:02:11.303000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 10:04:26 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369948044531077150
+Content: !draft in English [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T08:04:26.220000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 10:13:08 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369950235123777536
+Content: !draft scrivi per bambini [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T08:13:08.498000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 10:14:21 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369950542352220201
+Content: !draft in English [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T08:14:21.747000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 10:27:03 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369953735882706984
+Content: !draft scrivi l'articolo in rima [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T08:27:03.144000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 10:29:55 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369954459731361833
+Content: !draft pizza margherita
+Created: 2025-05-08T08:29:55.723000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 10:35:24 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369955837963014244
+Content: !draft scrivi l'articolo in rima [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T08:35:24.319000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 10:37:47 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369956439438786691
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T08:37:47.722000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 10:39:08 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369956779743514715
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T08:39:08.857000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 10:43:12 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369957803296559104
+Content: !draft parla in rima [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T08:43:12.891000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 10:56:16 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369961089223098429
+Content: !draft
+Created: 2025-05-08T08:56:16.317000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 10:59:43 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369961955221176340
+Content: !topic
+Created: 2025-05-08T08:59:42.787000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 11:26:37 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369968728879534221
+Content: !draft
+Created: 2025-05-08T09:26:37.753000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 11:35:08 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369970870709387285
+Content: !topic
+Created: 2025-05-08T09:35:08.405000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 11:43:30 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369972976249733131
+Content: !draft
+Created: 2025-05-08T09:43:30.405000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 11:43:34 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369972991680843839
+Content: !topic
+Created: 2025-05-08T09:43:34.084000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 11:43:40 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369973016850595925
+Content: !topic WhatsApp
+Created: 2025-05-08T09:43:40.085000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 11:44:25 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369973208228302929
+Content: !topic Spoki
+Created: 2025-05-08T09:44:25.713000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 11:51:43 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369975045849616444
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T09:51:43.836000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 11:57:09 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369976410856357999
+Content:  [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T09:57:09.279000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 11:57:25 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369976478720200704
+Content: !draft (Reply to: 1369976410856357999)
+Created: 2025-05-08T09:57:25.459000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 11:57:48 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369976574295932938
+Content: pizza margherita
+Created: 2025-05-08T09:57:48.246000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 11:57:53 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369976596533874719
+Content: !draft (Reply to: 1369976574295932938)
+Created: 2025-05-08T09:57:53.548000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 11:58:15 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369976687885811722
+Content: !topic (Reply to: 1369976574295932938)
+Created: 2025-05-08T09:58:15.328000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 11:58:24 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369976726951690280
+Content: pizza margherita !topic
+Created: 2025-05-08T09:58:24.642000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 11:58:33 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369976764901621790
+Content: Spoki !topic
+Created: 2025-05-08T09:58:33.690000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:03:28 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369977999725691013
+Content: pizza margherita
+Created: 2025-05-08T10:03:28.095000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:03:37 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369978036883161088
+Content: !topic (Reply to: 1369977999725691013)
+Created: 2025-05-08T10:03:36.954000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:04:08 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369978167510564905
+Content: !draft (Reply to: 1369977999725691013)
+Created: 2025-05-08T10:04:08.098000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:07:19 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369978969482334219
+Content: pizza margherita
+Created: 2025-05-08T10:07:19.303000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:07:27 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369979005398421555
+Content: !topic (Reply to: 1369978969482334219)
+Created: 2025-05-08T10:07:27.866000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:07:41 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369979063095263323
+Content: !draft (Reply to: 1369978969482334219)
+Created: 2025-05-08T10:07:41.622000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:10:53 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369979868237926430
+Content: !topic (Reply to: 1369978969482334219)
+Created: 2025-05-08T10:10:53.583000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:11:12 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369979946239528971
+Content: !pizza margherita (Reply to: 1369978969482334219)
+Created: 2025-05-08T10:11:12.180000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:11:25 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369979999981015040
+Content: pizza margherita
+Created: 2025-05-08T10:11:24.993000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:11:33 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369980037025234944
+Content: !draft (Reply to: 1369979999981015040)
+Created: 2025-05-08T10:11:33.825000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:13:25 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369980504459313203
+Content: !draft (Reply to: 1369979999981015040)
+Created: 2025-05-08T10:13:25.270000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:14:23 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369980749809189037
+Content: pizza margherita
+Created: 2025-05-08T10:14:23.766000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:14:34 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369980793283280998
+Content: !draft (Reply to: 1369980749809189037)
+Created: 2025-05-08T10:14:34.131000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:15:41 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369981074595119104
+Content: pizza margherita
+Created: 2025-05-08T10:15:41.201000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:15:48 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369981104265891860
+Content: !draft (Reply to: 1369981074595119104)
+Created: 2025-05-08T10:15:48.275000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:16:27 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369981267113807902
+Content: !draft pizza margherit
+Created: 2025-05-08T10:16:27.101000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:18:15 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369981721021517924
+Content: !draft pizza margherita
+Created: 2025-05-08T10:18:15.321000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:19:31 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369982041105367140
+Content: pizza margherita
+Created: 2025-05-08T10:19:31.635000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:19:37 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369982066233442377
+Content: !draft (Reply to: 1369982041105367140)
+Created: 2025-05-08T10:19:37.626000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:23:52 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369983134866870353
+Content:  [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T10:23:52.408000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:24:01 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369983172649160806
+Content: !draft (Reply to: 1369983134866870353)
+Created: 2025-05-08T10:24:01.416000+00:00 - Edited: None
+Type: MessageType.reply - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:37:31 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369986570467151895
+Content: !draft Zadarma
+Created: 2025-05-08T10:37:31.519000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:38:09 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369986728097615882
+Content: !topic Zadarma
+Created: 2025-05-08T10:38:09.101000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:39:27 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369987056528261233
+Content: !draft [Attachments: ['TEST_MEDIA.jpg']]
+Created: 2025-05-08T10:39:27.405000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:49:52 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369989679574941708
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T10:49:52.788000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 12:54:39 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1369990880391467029
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T10:54:39.085000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 15:33:08 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1370030767593226281
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T13:33:08.935000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 15:37:07 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1370031767624618064
+Content: !draft [Attachments: ['Spoki_Releases_-_WhatsApp_Flows_ENG_-_020525_-_WebinarGeek.en.txt']]
+Created: 2025-05-08T13:37:07.361000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-08 16:01:49 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1370037985210269797
+Content: !status
+Created: 2025-05-08T14:01:49.749000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-09 10:29:53 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1370316835987263540
+Content: !status
+Created: 2025-05-09T08:29:52.955000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-09 10:39:36 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1370319282830970950
+Content: !status
+Created: 2025-05-09T08:39:36.328000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-09 10:42:27 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1370320002237992991
+Content: !help
+Created: 2025-05-09T08:42:27.848000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-09 10:43:43 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1370320320468095017
+Content: !status
+Created: 2025-05-09T08:43:43.720000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-09 10:46:20 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1370320978084630579
+Content: !status
+Created: 2025-05-09T08:46:20.508000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-09 10:50:22 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1370321993563508776
+Content: !status
+Created: 2025-05-09T08:50:22.617000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-09 10:53:40 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1370322825411301407
+Content: !status
+Created: 2025-05-09T08:53:40.945000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-09 10:57:47 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1370323860733562881
+Content: !status
+Created: 2025-05-09T08:57:47.785000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------
+2025-05-09 11:00:26 - User: giulio_spoki (ID: 1346050422699331588) - Channel: test-prompt (ID: 1369581924049490000) - Guild: Discord Server Test (ID: 1361261624706469960) - Message ID: 1370324525555908629
+Content: !status
+Created: 2025-05-09T09:00:26.291000+00:00 - Edited: None
+Type: MessageType.default - System: False - Pinned: False
+Thread: None
+Mentions: {'users': [], 'roles': [], 'everyone': False}
+Embeds: 0 - Reactions: []
+Flags: 0
+----------------------------------------

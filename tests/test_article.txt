@@ -1,0 +1,7 @@
+Come configurare un server web Apache su Ubuntu 22.04
+
+Questo articolo spiegherà:
+- Installazione di Apache
+- Configurazione base
+- Gestione dei virtual host
+- Sicurezza e best practices 

@@ -1,0 +1,47 @@
+{
+    "__comment": "File di configurazione principale del bot. Contiene token, prefisso, parametri di WordPress, YouTube, Discord, AI e limiti dei comandi. Tutte le impostazioni globali e i parametri runtime sono definiti qui. Dipendenze: Nessuna (letto da bot.py, cog e handler vari). Flusso di lavoro: Caricato all'avvio dal bot e dai vari moduli per leggere parametri e limiti di funzionamento.",
+    "token": "YOUR_BOT_TOKEN_HERE",
+    "prefix": "!",
+    "thread_archive_duration": 60,
+    "wordpress": {
+        "results_per_page": 100,
+        "domain": "https://spoki.it"
+    },
+    "youtube": {
+        "channel_id": "UCX9JVzZKHolS7RNYvOJuLrQ"
+    },
+    "discord": {
+        "message_limit": 2000,
+        "thread_title_limit": 100,
+        "max_results_per_embed": 20
+    },
+    "bot": {
+        "shutdown_timeout": 2.0
+    },
+    "commands": {
+        "topic": {
+            "min_length": 3,
+            "max_length": 100,
+            "description": "Comando per cercare documenti su un argomento specifico"
+        },
+        "draft": {
+            "min_length": 5,
+            "max_length": 200,
+            "description": "Comando per generare una bozza di articolo",
+            "related_content": {
+                "max_articles": 5,
+                "max_videos": 5
+            }
+        }
+    },
+    "ai": {
+        "model": "gpt-4",
+        "temperature": 0.7,
+        "max_tokens_ratio": 0.7,
+        "token_limits": {
+            "gpt-3.5-turbo": 4096,
+            "gpt-4": 8192,
+            "gpt-4-32k": 32768
+        }
+    }
+}

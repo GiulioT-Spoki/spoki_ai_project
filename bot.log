@@ -1,0 +1,235 @@
+2025-05-08 15:59:47,026 - utils.ai_handler - INFO - Prompt caricati correttamente
+2025-05-08 15:59:47,032 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-08 15:59:47,034 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-08 15:59:47,034 - __main__ - INFO - Caricato cog: draft_cog
+2025-05-08 15:59:47,038 - __main__ - INFO - Caricato cog: topic_cog
+2025-05-08 15:59:47,040 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-08 15:59:47,041 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-08 15:59:47,041 - __main__ - INFO - Caricato cog: config_cog
+2025-05-08 15:59:47,041 - discord.client - INFO - logging in using static token
+2025-05-08 15:59:48,357 - __main__ - ERROR - Fatal error: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-08 15:59:48,357 - __main__ - INFO - Initiating shutdown
+2025-05-08 15:59:48,357 - __main__ - INFO - Shutdown complete
+2025-05-08 15:59:48,358 - __main__ - INFO - Lock file removed
+2025-05-08 16:00:01,350 - utils.ai_handler - INFO - Prompt caricati correttamente
+2025-05-08 16:00:01,355 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-08 16:00:01,356 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-08 16:00:01,356 - __main__ - INFO - Caricato cog: draft_cog
+2025-05-08 16:00:01,360 - __main__ - INFO - Caricato cog: topic_cog
+2025-05-08 16:00:01,362 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-08 16:00:01,363 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-08 16:00:01,363 - __main__ - INFO - Caricato cog: config_cog
+2025-05-08 16:00:01,363 - discord.client - INFO - logging in using static token
+2025-05-08 16:00:02,818 - __main__ - ERROR - Fatal error: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-08 16:00:02,818 - __main__ - INFO - Initiating shutdown
+2025-05-08 16:00:02,818 - __main__ - INFO - Shutdown complete
+2025-05-08 16:00:02,819 - __main__ - INFO - Lock file removed
+2025-05-08 16:01:37,581 - utils.ai_handler - INFO - Prompt caricati correttamente
+2025-05-08 16:01:37,586 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-08 16:01:37,588 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-08 16:01:37,588 - __main__ - INFO - Caricato cog: draft_cog
+2025-05-08 16:01:37,592 - __main__ - INFO - Caricato cog: topic_cog
+2025-05-08 16:01:37,594 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-08 16:01:37,595 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-08 16:01:37,595 - __main__ - INFO - Caricato cog: config_cog
+2025-05-08 16:01:37,595 - discord.client - INFO - logging in using static token
+2025-05-08 16:01:38,871 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1f491c5ac562c1ebb3efc188bf9a09d5).
+2025-05-08 16:01:40,875 - __main__ - INFO - Logged in as Spoki-Doc-Bot-2#0591
+2025-05-08 16:01:40,876 - __main__ - INFO - ------
+2025-05-08 16:01:49,715 - user_activity - INFO - !status
+2025-05-08 16:01:49,719 - cogs.config_cog - INFO - Comando !status ricevuto da giulio_spoki
+2025-05-08 16:01:49,719 - utils.youtube_handler - INFO - Richiesta informazioni per il canale: UCX9JVzZKHolS7RNYvOJuLrQ
+2025-05-08 16:01:50,026 - utils.youtube_handler - INFO - Informazioni del canale recuperate con successo: Spoki
+2025-05-08 16:01:50,256 - cogs.config_cog - INFO - Stato del bot inviato con successo
+2025-05-09 10:29:17,264 - utils.ai_handler - INFO - Prompt caricati correttamente
+2025-05-09 10:29:17,269 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-09 10:29:17,271 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-09 10:29:17,271 - __main__ - INFO - Caricato cog: draft_cog
+2025-05-09 10:29:17,276 - __main__ - INFO - Caricato cog: topic_cog
+2025-05-09 10:29:17,277 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-09 10:29:17,278 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-09 10:29:17,278 - __main__ - INFO - Caricato cog: config_cog
+2025-05-09 10:29:17,278 - discord.client - INFO - logging in using static token
+2025-05-09 10:29:18,736 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 071713cc59d763669db1b61437a2de4f).
+2025-05-09 10:29:20,741 - __main__ - INFO - Logged in as Spoki-Doc-Bot-2#0591
+2025-05-09 10:29:20,741 - __main__ - INFO - ------
+2025-05-09 10:29:53,078 - user_activity - INFO - !status
+2025-05-09 10:29:53,081 - cogs.config_cog - INFO - Comando !status ricevuto da giulio_spoki
+2025-05-09 10:29:53,081 - utils.youtube_handler - INFO - Richiesta informazioni per il canale: UCX9JVzZKHolS7RNYvOJuLrQ
+2025-05-09 10:29:53,321 - utils.youtube_handler - INFO - Informazioni del canale recuperate con successo: Spoki
+2025-05-09 10:29:53,682 - cogs.config_cog - INFO - Stato del bot inviato con successo
+2025-05-09 10:39:22,902 - __main__ - INFO - Initiating shutdown
+2025-05-09 10:39:22,902 - __main__ - INFO - Cancelling 1 outstanding tasks
+2025-05-09 10:39:22,902 - __main__ - INFO - Shutdown complete
+2025-05-09 10:39:22,903 - __main__ - INFO - Lock file removed
+2025-05-09 10:39:28,041 - utils.ai_handler - INFO - Prompt caricati correttamente
+2025-05-09 10:39:28,046 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-09 10:39:28,047 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-09 10:39:28,047 - __main__ - INFO - Caricato cog: draft_cog
+2025-05-09 10:39:28,052 - __main__ - INFO - Caricato cog: topic_cog
+2025-05-09 10:39:28,054 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-09 10:39:28,055 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-09 10:39:28,055 - __main__ - INFO - Caricato cog: config_cog
+2025-05-09 10:39:28,055 - discord.client - INFO - logging in using static token
+2025-05-09 10:39:29,504 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1f1a8c9008dc75f318716a9103728dcd).
+2025-05-09 10:39:31,517 - __main__ - INFO - Logged in as Spoki-Doc-Bot-2#0591
+2025-05-09 10:39:31,518 - __main__ - INFO - ------
+2025-05-09 10:39:36,381 - user_activity - INFO - !status
+2025-05-09 10:39:36,382 - cogs.config_cog - INFO - Comando !status ricevuto da giulio_spoki
+2025-05-09 10:39:36,382 - utils.youtube_handler - INFO - Richiesta informazioni per il canale: UCX9JVzZKHolS7RNYvOJuLrQ
+2025-05-09 10:39:36,707 - utils.youtube_handler - INFO - Informazioni del canale recuperate con successo: Spoki
+2025-05-09 10:39:36,970 - cogs.config_cog - INFO - Stato del bot inviato con successo
+2025-05-09 10:42:27,876 - user_activity - INFO - !help
+2025-05-09 10:43:30,895 - __main__ - INFO - Initiating shutdown
+2025-05-09 10:43:30,896 - __main__ - INFO - Cancelling 1 outstanding tasks
+2025-05-09 10:43:30,897 - __main__ - INFO - Shutdown complete
+2025-05-09 10:43:30,897 - __main__ - INFO - Lock file removed
+2025-05-09 10:43:36,300 - utils.ai_handler - INFO - Prompt caricati correttamente
+2025-05-09 10:43:36,306 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-09 10:43:36,308 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-09 10:43:36,308 - __main__ - INFO - Caricato cog: draft_cog
+2025-05-09 10:43:36,313 - __main__ - INFO - Caricato cog: topic_cog
+2025-05-09 10:43:36,315 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-09 10:43:36,316 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-09 10:43:36,316 - __main__ - INFO - Caricato cog: config_cog
+2025-05-09 10:43:36,316 - discord.client - INFO - logging in using static token
+2025-05-09 10:43:37,486 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2baa54fdd8667cedd0dbf7ec46eeb12c).
+2025-05-09 10:43:39,489 - __main__ - INFO - Logged in as Spoki-Doc-Bot-2#0591
+2025-05-09 10:43:39,489 - __main__ - INFO - ------
+2025-05-09 10:43:43,755 - user_activity - INFO - !status
+2025-05-09 10:43:43,756 - cogs.config_cog - INFO - Comando !status ricevuto da giulio_spoki
+2025-05-09 10:43:43,756 - utils.youtube_handler - INFO - Richiesta informazioni per il canale: UCX9JVzZKHolS7RNYvOJuLrQ
+2025-05-09 10:43:43,993 - utils.youtube_handler - INFO - Informazioni del canale recuperate con successo: Spoki
+2025-05-09 10:43:44,335 - cogs.config_cog - INFO - Stato del bot inviato con successo (code block)
+2025-05-09 10:46:10,854 - __main__ - INFO - Initiating shutdown
+2025-05-09 10:46:10,854 - __main__ - INFO - Cancelling 1 outstanding tasks
+2025-05-09 10:46:10,855 - __main__ - INFO - Shutdown complete
+2025-05-09 10:46:10,855 - __main__ - INFO - Lock file removed
+2025-05-09 10:46:13,997 - utils.ai_handler - INFO - Prompt caricati correttamente
+2025-05-09 10:46:14,001 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-09 10:46:14,003 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-09 10:46:14,003 - __main__ - INFO - Caricato cog: draft_cog
+2025-05-09 10:46:14,007 - __main__ - INFO - Caricato cog: topic_cog
+2025-05-09 10:46:14,009 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-09 10:46:14,010 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-09 10:46:14,011 - __main__ - INFO - Caricato cog: config_cog
+2025-05-09 10:46:14,011 - discord.client - INFO - logging in using static token
+2025-05-09 10:46:15,510 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0972badf88b079a9f36927ba55749729).
+2025-05-09 10:46:17,514 - __main__ - INFO - Logged in as Spoki-Doc-Bot-2#0591
+2025-05-09 10:46:17,515 - __main__ - INFO - ------
+2025-05-09 10:46:20,619 - user_activity - INFO - !status
+2025-05-09 10:46:20,620 - cogs.config_cog - INFO - Comando !status ricevuto da giulio_spoki
+2025-05-09 10:46:20,620 - utils.youtube_handler - INFO - Richiesta informazioni per il canale: UCX9JVzZKHolS7RNYvOJuLrQ
+2025-05-09 10:46:20,908 - utils.youtube_handler - INFO - Informazioni del canale recuperate con successo: Spoki
+2025-05-09 10:46:21,266 - cogs.config_cog - INFO - Stato del bot inviato con successo
+2025-05-09 10:49:55,043 - __main__ - INFO - Initiating shutdown
+2025-05-09 10:49:55,043 - __main__ - INFO - Cancelling 1 outstanding tasks
+2025-05-09 10:49:55,044 - __main__ - INFO - Shutdown complete
+2025-05-09 10:49:55,044 - __main__ - INFO - Lock file removed
+2025-05-09 10:50:16,736 - utils.ai_handler - INFO - Prompt caricati correttamente
+2025-05-09 10:50:16,741 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-09 10:50:16,742 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-09 10:50:16,742 - __main__ - INFO - Caricato cog: draft_cog
+2025-05-09 10:50:16,747 - __main__ - INFO - Caricato cog: topic_cog
+2025-05-09 10:50:16,749 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-09 10:50:16,750 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-09 10:50:16,750 - __main__ - INFO - Caricato cog: config_cog
+2025-05-09 10:50:16,750 - discord.client - INFO - logging in using static token
+2025-05-09 10:50:18,028 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5e9c3b5cdb6b4f70530f483c88325b74).
+2025-05-09 10:50:20,038 - __main__ - INFO - Logged in as Spoki-Doc-Bot-2#0591
+2025-05-09 10:50:20,039 - __main__ - INFO - ------
+2025-05-09 10:50:22,690 - user_activity - INFO - !status
+2025-05-09 10:50:22,691 - cogs.config_cog - INFO - Comando !status ricevuto da giulio_spoki
+2025-05-09 10:50:22,691 - utils.youtube_handler - INFO - Richiesta informazioni per il canale: UCX9JVzZKHolS7RNYvOJuLrQ
+2025-05-09 10:50:23,139 - utils.youtube_handler - INFO - Informazioni del canale recuperate con successo: Spoki
+2025-05-09 10:50:23,389 - cogs.config_cog - INFO - Stato del bot inviato con successo (embed)
+2025-05-09 10:53:31,941 - __main__ - INFO - Initiating shutdown
+2025-05-09 10:53:31,941 - __main__ - INFO - Cancelling 1 outstanding tasks
+2025-05-09 10:53:31,942 - __main__ - INFO - Shutdown complete
+2025-05-09 10:53:31,942 - __main__ - INFO - Lock file removed
+2025-05-09 10:53:35,383 - utils.ai_handler - INFO - Prompt caricati correttamente
+2025-05-09 10:53:35,387 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-09 10:53:35,389 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-09 10:53:35,389 - __main__ - INFO - Caricato cog: draft_cog
+2025-05-09 10:53:35,393 - __main__ - INFO - Caricato cog: topic_cog
+2025-05-09 10:53:35,395 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-09 10:53:35,396 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-09 10:53:35,397 - __main__ - INFO - Caricato cog: config_cog
+2025-05-09 10:53:35,397 - discord.client - INFO - logging in using static token
+2025-05-09 10:53:37,102 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: dfe29811c1d653c7a6b64a295d9cb168).
+2025-05-09 10:53:39,125 - __main__ - INFO - Logged in as Spoki-Doc-Bot-2#0591
+2025-05-09 10:53:39,125 - __main__ - INFO - ------
+2025-05-09 10:53:40,979 - user_activity - INFO - !status
+2025-05-09 10:53:40,979 - cogs.config_cog - INFO - Comando !status ricevuto da giulio_spoki
+2025-05-09 10:53:40,980 - utils.youtube_handler - INFO - Richiesta informazioni per il canale: UCX9JVzZKHolS7RNYvOJuLrQ
+2025-05-09 10:53:41,240 - utils.youtube_handler - INFO - Informazioni del canale recuperate con successo: Spoki
+2025-05-09 10:53:41,484 - cogs.config_cog - INFO - Stato del bot inviato con successo (embed)
+2025-05-09 10:57:33,335 - __main__ - INFO - Initiating shutdown
+2025-05-09 10:57:33,336 - __main__ - INFO - Cancelling 1 outstanding tasks
+2025-05-09 10:57:33,337 - __main__ - INFO - Shutdown complete
+2025-05-09 10:57:33,337 - __main__ - INFO - Lock file removed
+2025-05-09 10:57:40,965 - utils.ai_handler - INFO - Prompt caricati correttamente
+2025-05-09 10:57:40,969 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-09 10:57:40,971 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-09 10:57:40,971 - __main__ - INFO - Caricato cog: draft_cog
+2025-05-09 10:57:40,975 - __main__ - INFO - Caricato cog: topic_cog
+2025-05-09 10:57:40,978 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-09 10:57:40,979 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-09 10:57:40,979 - __main__ - INFO - Caricato cog: config_cog
+2025-05-09 10:57:40,979 - discord.client - INFO - logging in using static token
+2025-05-09 10:57:42,616 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 19ddf085d714f0ce29b82618df2b27b1).
+2025-05-09 10:57:44,627 - __main__ - INFO - Logged in as Spoki-Doc-Bot-2#0591
+2025-05-09 10:57:44,628 - __main__ - INFO - ------
+2025-05-09 10:57:47,894 - user_activity - INFO - !status
+2025-05-09 10:57:47,899 - cogs.config_cog - INFO - Comando !status ricevuto da giulio_spoki
+2025-05-09 10:57:47,899 - utils.youtube_handler - INFO - Richiesta informazioni per il canale: UCX9JVzZKHolS7RNYvOJuLrQ
+2025-05-09 10:57:48,203 - utils.youtube_handler - INFO - Informazioni del canale recuperate con successo: Spoki
+2025-05-09 10:57:48,575 - cogs.config_cog - INFO - Stato del bot inviato con successo (embed)
+2025-05-09 10:59:58,564 - __main__ - INFO - Initiating shutdown
+2025-05-09 10:59:58,565 - __main__ - INFO - Cancelling 1 outstanding tasks
+2025-05-09 10:59:58,565 - __main__ - INFO - Shutdown complete
+2025-05-09 10:59:58,566 - __main__ - INFO - Lock file removed
+2025-05-09 11:00:13,418 - utils.ai_handler - INFO - Prompt caricati correttamente
+2025-05-09 11:00:13,422 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-09 11:00:13,423 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-09 11:00:13,423 - __main__ - INFO - Caricato cog: draft_cog
+2025-05-09 11:00:13,428 - __main__ - INFO - Caricato cog: topic_cog
+2025-05-09 11:00:13,430 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-09 11:00:13,431 - utils.youtube_handler - INFO - YouTubeHandler inizializzato con successo
+2025-05-09 11:00:13,431 - __main__ - INFO - Caricato cog: config_cog
+2025-05-09 11:00:13,431 - discord.client - INFO - logging in using static token
+2025-05-09 11:00:14,814 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9b41485051b0a24575641ec1cdb48bcc).
+2025-05-09 11:00:16,818 - __main__ - INFO - Logged in as Spoki-Doc-Bot-2#0591
+2025-05-09 11:00:16,819 - __main__ - INFO - ------
+2025-05-09 11:00:26,472 - user_activity - INFO - !status
+2025-05-09 11:00:26,473 - cogs.config_cog - INFO - Comando !status ricevuto da giulio_spoki
+2025-05-09 11:00:26,473 - utils.youtube_handler - INFO - Richiesta informazioni per il canale: UCX9JVzZKHolS7RNYvOJuLrQ
+2025-05-09 11:00:26,805 - utils.youtube_handler - INFO - Informazioni del canale recuperate con successo: Spoki
+2025-05-09 11:00:27,090 - cogs.config_cog - INFO - Stato del bot inviato con successo (embed)
+2025-05-09 11:11:23,259 - discord.gateway - WARNING - Can't keep up, shard ID None websocket is 37.1s behind.
+2025-05-09 11:16:30,520 - discord.client - ERROR - Attempting a reconnect in 0.20s
+Traceback (most recent call last):
+  File "/Users/giulio/Library/Python/3.9/lib/python/site-packages/discord/client.py", line 659, in connect
+    await self.ws.poll_event()
+  File "/Users/giulio/Library/Python/3.9/lib/python/site-packages/discord/gateway.py", line 646, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+2025-05-09 11:16:31,225 - discord.gateway - INFO - Shard ID None session has been invalidated.
+2025-05-09 11:16:36,920 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4346b7d5a5069643977c055b35cb766c).
+2025-05-09 11:16:38,925 - __main__ - INFO - Logged in as Spoki-Doc-Bot-2#0591
+2025-05-09 11:16:38,926 - __main__ - INFO - ------
+2025-05-09 11:26:36,846 - discord.client - ERROR - Attempting a reconnect in 1.86s
+Traceback (most recent call last):
+  File "/Users/giulio/Library/Python/3.9/lib/python/site-packages/discord/client.py", line 659, in connect
+    await self.ws.poll_event()
+  File "/Users/giulio/Library/Python/3.9/lib/python/site-packages/discord/gateway.py", line 646, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+2025-05-09 11:26:39,274 - discord.gateway - INFO - Shard ID None session has been invalidated.
+2025-05-09 11:26:44,968 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a613ecb2d7335c7d44fe9a56c9a8c314).
+2025-05-09 11:26:46,975 - __main__ - INFO - Logged in as Spoki-Doc-Bot-2#0591
+2025-05-09 11:26:46,975 - __main__ - INFO - ------
+2025-05-09 11:43:12,835 - __main__ - INFO - Initiating shutdown
+2025-05-09 11:43:12,835 - __main__ - INFO - Cancelling 1 outstanding tasks
+2025-05-09 11:43:12,836 - __main__ - INFO - Shutdown complete
+2025-05-09 11:43:12,837 - __main__ - INFO - Lock file removed
